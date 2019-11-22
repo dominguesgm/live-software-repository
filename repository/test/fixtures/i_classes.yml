@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  class_name: MyString
+  qualified_name: MyString
+  method_count: 1
+  attribute_count: 1
+  lines_of_code: 1
+  hash: MyString
+  package: one
+
+two:
+  class_name: MyString
+  qualified_name: MyString
+  method_count: 1
+  attribute_count: 1
+  lines_of_code: 1
+  hash: MyString
+  package: two

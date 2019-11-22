@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Astsimple
+Bundle-SymbolicName: StaticAnalyzer;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.jdt.core,
+ org.eclipse.core.resources,
+ org.eclipse.equinox.registry,
+ org.eclipse.text
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-ClassPath: lib/json-20180130.jar,
+ .,
+ lib/okhttp-3.10.0.jar,
+ lib/okio-1.14.1.jar

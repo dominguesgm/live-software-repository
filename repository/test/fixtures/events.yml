@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  origin_class: MyString
+  destination_class: MyString
+  origin_hash: MyString
+  destination_hash: MyString
+  timestamp: MyString
+  kind: MyString
+  signature: MyString
+  source_location: MyString
+  class_instance: MyString
+
+two:
+  origin_class: MyString
+  destination_class: MyString
+  origin_hash: MyString
+  destination_hash: MyString
+  timestamp: MyString
+  kind: MyString
+  signature: MyString
+  source_location: MyString
+  class_instance: MyString

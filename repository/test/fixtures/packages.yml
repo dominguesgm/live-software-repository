@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  package_name: MyString
+  class_count: 1
+  has_subpackages: false
+
+two:
+  package_name: MyString
+  class_count: 1
+  has_subpackages: false
